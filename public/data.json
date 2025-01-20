@@ -1,0 +1,7 @@
+[
+  { "name": "Elon Musk", "netWorth": 250000000000 },
+  { "name": "Jeff Bezos", "netWorth": 150000000000 },
+  { "name": "Bernard Arnault", "netWorth": 200000000000 },
+  { "name": "Bill Gates", "netWorth": 110000000000 },
+  { "name": "Warren Buffet", "netWorth": 105000000000 }
+]
